@@ -1,0 +1,151 @@
+/*
+    Featured And Discography Section And Featured Video
+*/
+
+.featured-content-section {
+
+    .entry-footer:first-child {
+        margin-top: 0;
+    }
+}
+
+.featured-content-section {
+
+    .post-thumbnail {
+        overflow: hidden;
+
+        &:hover {
+
+            img {
+                transform: scale(1.2) translateX(0);
+                -o-transform: scale(1.2) translateX(0);
+                -moz-transform: scale(1.2) translateX(0);
+                -webkit-transform: scale(1.2) translateX(0);
+            }
+        }
+        
+        img {
+            transform: scale(1.2) translateX(-14px);
+            -o-transform: scale(1.2) translateX(-14px);
+            -moz-transform: scale(1.2) translateX(-14px);
+            -webkit-transform: scale(1.2) translateX(-14px);
+            width: 100%;
+        }
+    } 
+}
+
+.discography-section {
+
+    .post-thumbnail {
+        overflow: hidden;
+
+        &:hover {
+
+            img {
+                transform: scale(1.2);
+                -o-transform: scale(1.2);
+                -moz-transform: scale(1.2);
+                -webkit-transform: scale(1.2);
+            }
+        }
+        
+        img {
+            transform: scale(1);
+            -o-transform: scale(1);
+            -moz-transform: scale(1);
+            -webkit-transform: scale(1);
+            width: 100%;
+        }
+    } 
+}
+
+ /*** Discography Section ***/
+
+.discography-section {
+    .hentry {
+
+        .post-thumbnail {
+            @include media(wide) {
+                margin-bottom: 28px;
+            }
+        }
+    }
+}
+
+ /*** Featured Video Section ***/
+
+#featured-video-section .lightbox-enabled iframe {
+   pointer-events:none;
+}
+
+#featured-video-section a.mixed {
+    color: transparent;
+    display: block;
+}
+
+body .flashy-container .flashy-content {
+    background: transparent;
+}
+
+.featured-video-content-wrapper {
+    .entry-meta {
+        font-size: 13px;
+        font-size: 0.8125rem;
+    }
+}
+
+.featured-video-content-wrapper .entry-header .entry-meta {
+    line-height: 1.25;
+    margin-top: 7px;
+    margin-bottom: 0;
+}
+
+.single-item .featured-video-content-wrapper .hentry.featured {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#featured-video-section .side-posts-wrap {
+    position: relative;
+
+    @include media(desktop) {
+        float: left;
+    }
+}
+
+#featured-video-section {
+    .hentry {
+
+        .post-thumbnail {
+            margin-bottom: 14px;
+
+            @include media(tablet) {
+                margin-bottom: 0
+            }
+        }
+    }
+}
+
+#featured-video-section.single-item .hentry {
+    float: none;
+}
+
+#featured-video-section .view-all-button {
+    clear: both;
+    padding-top: 35px;
+}
+
+.featured-video-content-wrapper .excerpt-video-left.no-caption-video {  
+    .post-thumbnail {
+        flex: 0 1 100%;
+    }
+
+    .entry-container {
+        display: none;
+    }
+}
+
+.featured-video-content-wrapper .hentry.featured {
+    width: 100%;
+}

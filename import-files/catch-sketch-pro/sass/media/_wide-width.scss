@@ -1,0 +1,40 @@
+@include media(wide) {
+	body #playlist-section .wp-playlist {
+        margin-top: 28px;
+    }
+
+	.playlist-content-wrapper.content-align-left .entry-container {
+        padding-left: 0;
+        padding-right: 76px;
+    }
+
+    .playlist-content-wrapper.content-align-right .entry-container {
+        padding-left: 76px;
+    }
+
+    .featured-video-content-wrapper .entry-title {
+		font-size: 20px;
+		font-size: 1.25rem;
+	}
+
+    .app-section.content-align-left .content-wrapper {
+        padding-right: 53px;
+    }
+
+    .products.columns-6 .product {
+        width: 14.71%;
+    }
+
+    .woocommerce .products.columns-6 .product:nth-child(6n+6) {
+        margin-right: 0;
+    }
+
+    .products.columns-6 .product:nth-child(4n+4) {
+        margin-right: 2.40%;
+    }
+
+    .app-section .content-wrapper {
+        padding-bottom: 55px;
+        padding-top: 55px;
+    }
+}

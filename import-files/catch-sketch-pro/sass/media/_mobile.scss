@@ -1,0 +1,5 @@
+@include media(mobile) {
+    .header-top-bar .header-top-content {
+        flex-direction: row;
+	}
+}

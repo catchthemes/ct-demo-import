@@ -1,0 +1,208 @@
+#footer-newsletter .footer-newsletter {
+
+    .section-heading-wrapper {
+        padding: 0;
+        text-align: center;
+    }
+}
+
+#footer-newsletter {
+    
+    .ewnewsletter {
+
+        .hentry {
+            margin-bottom: 0;
+
+            form {
+                align-items: unset;
+                flex-direction: column;
+                flex-wrap: wrap;
+                justify-content: unset;
+                margin: 0 auto;
+                max-width: 680px;
+                position: relative;
+
+                @include media(mobile) {
+                    flex-direction: row;
+                }
+                
+                input {
+                    border: 2px solid transparent;
+                    @include border(0);
+                    box-shadow: 11px 3px 15px 0 rgba(0, 0, 0, 0.05);
+                    -moz-box-shadow: 11px 3px 15px 0 rgba(0, 0, 0, 0.05);
+                    -webkit-box-shadow: 11px 3px 15px 0 rgba(0, 0, 0, 0.05);
+                    margin: 0;
+                    margin-top: 10px;
+                    z-index: 9;
+                    
+                    @include media(mobile) {
+                        margin-top: 0;
+                    }
+                }
+            }
+        }   
+    }
+}
+
+.ewnewsletter .ew-newsletter-wrap {
+    margin-top: 28px;
+
+    @include media(desktop) {
+        margin-top: 42px;
+    }
+
+    @include media(wide) {
+        margin-top: 63px;
+    }
+
+    input[type="submit"] {
+        box-shadow: none;
+    }
+}
+
+#footer-newsletter .ew-newsletter {
+    margin-bottom: 0;
+}
+
+#footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action {
+    input[type="text"] {
+        margin-bottom: 15px;
+
+        @include media(mobile_horizontal) {
+            margin-right: 4%;
+            width: 48%;
+        }
+    }
+
+    input#subbox2 {
+        margin-right: 0;
+    }
+
+    input[type="email"] {
+        flex: 1;
+        width: 100%;
+    }
+
+    input[type="text"] ~ input[type="email"] {
+        flex: auto;
+        width: 100%;
+    }
+    
+    input[type="text"] ~ input[type="submit"] {
+        left: 0;
+        margin-top: 15px;
+        position: relative;
+        right: auto;
+        top: 0;
+    }
+}
+
+.color-scheme-minimal #footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action,
+.color-scheme-music #footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action {
+    input[type="email"] + input[type="submit"] {
+    @include media(mobile) {
+            @include border(0 45px 45px 0);
+        }
+    }    
+}
+
+.color-scheme-minimal #footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action,
+.color-scheme-music #footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action {
+    input[type="text"] ~ input[type="submit"] {
+        @include border(45px);
+    }    
+}
+
+.color-scheme-corporate #footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action,
+.color-scheme-minimal #footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action,
+.color-scheme-music #footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action {
+    input {
+        @include border(45px);
+    }
+
+    input[type="text"] ~ input[type="email"] {
+        padding-right: 18px;
+    }    
+
+    input[type="email"] {
+        @include border(45px);
+
+        @include media(mobile) {
+            padding-right: 135px;
+        }
+
+        @include media(desktop) {
+            padding-right: 148px;
+        }
+
+        @include media(wide) {
+            padding-right: 165px;
+        }
+
+        @include media(diagonal) {
+            padding-right: 175px;
+        }
+    }
+    input[type="submit"] {
+        left: auto;
+        right: 0;
+        top: 0;
+
+        @include media(mobile) {
+            margin-top: 0;
+            position: absolute;
+        }
+    }
+}
+
+/**  Color Scheme **/
+
+.color-scheme-modern,
+.color-scheme-wedding,
+.color-scheme-minimal {
+    .section:nth-child(2n) + .site-content + #footer-newsletter .footer-newsletter {
+        background: transparent;
+        padding-top: 0;
+    }
+}
+
+.color-scheme-modern #footer-newsletter .ew-newsletter,
+.color-scheme-wedding #footer-newsletter .ew-newsletter,
+.color-scheme-minimal #footer-newsletter .ew-newsletter {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.color-scheme-default, 
+.color-scheme-dark, 
+.color-scheme-yellow, 
+.color-scheme-gray, 
+.color-scheme-corporate {
+    #footer-newsletter {
+        .footer-newsletter {
+            margin-bottom: 0;
+            margin-top: 0;
+        }
+    }
+} 
+
+.color-scheme-default,
+.color-scheme-dark,
+.color-scheme-gray,
+.color-scheme-yellow {
+    #footer-newsletter .wrapper {
+        padding-left: 30px;
+        padding-right: 30px;
+
+        @include media(mobile_horizontal) {
+            padding-left: 40px;
+            padding-right: 40px;
+        }
+
+        @include media(wide) {
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+    }
+}

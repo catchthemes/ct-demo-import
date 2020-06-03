@@ -1,0 +1,47 @@
+<?php
+/*
+ * Template Name: Left Sidebar ( Primary Sidebar, Content )
+ *
+ * Template Post Type: post, page
+ *
+ * The template for displaying Page/Post with Sidebar on Left
+ *
+ * @package Catch_Sketch
+ */
+
+get_header(); 
+
+$enable_homepage_posts = catch_sketch_enable_homepage_posts();
+
+if ( $enable_homepage_posts ) : ?>
+
+    <div id="primary" class="content-area">
+        <main id="main" class="site-main">
+            <div class="singular-content-wrap">
+                <?php
+                // Start the loop.
+                while ( have_posts() ) : the_post();
+
+                    $template = 'single';
+
+                    if ( is_page() ) {
+                        $template = 'page';
+                    }
+
+                    // Include the page content template.
+                    get_template_part( 'template-parts/content/content', $template );
+
+                    // Comments Templates
+                    get_template_part( 'template-parts/content/content', 'comment' );
+
+                    // End of the loop.
+                endwhile;
+                ?>
+                </div> <!-- singular-content-wrap -->
+        </main><!-- #main -->
+    </div><!-- #primary -->
+
+<?php
+get_sidebar();
+endif; // $enable_homepage_posts
+get_footer();

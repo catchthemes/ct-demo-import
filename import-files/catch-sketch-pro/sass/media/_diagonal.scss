@@ -1,0 +1,19 @@
+@include media(diagonal) {
+
+    .app-section.content-align-left .content-wrapper {
+        padding-right: 85px;
+    }
+
+    .app-section .section-content-wrapper .entry-content {
+    	margin-top: 35px;
+    }
+
+    .app-image-container {
+        margin-top: 49px;
+    }
+
+     .app-section .content-wrapper {
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+}
