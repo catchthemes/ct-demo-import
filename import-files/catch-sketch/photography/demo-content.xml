@@ -15993,7 +15993,7 @@ Since we know ourselves so well, we unconsciously try to relate everything we se
 1
 Catch Sketch Photography "[your-subject]"
 [your-name] <wordpress@catchthemes.com>
-info@catchthemes.com
+info@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -16015,7 +16015,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)
-Reply-To: info@sakinshrestha.com
+Reply-To: info@example.com
 
 
 
@@ -16080,7 +16080,7 @@ demo_mode: on]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:41:"Catch Sketch Photography "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@catchthemes.com>";s:9:"recipient";s:20:"info@catchthemes.com";s:4:"body";s:217:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:41:"Catch Sketch Photography "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@catchthemes.com>";s:9:"recipient";s:20:"info@example.com";s:4:"body";s:217:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -16095,7 +16095,7 @@ This e-mail was sent from a contact form on Catch Sketch Photography (https://ca
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:18:"additional_headers";s:32:"Reply-To: info@sakinshrestha.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -16133,7 +16133,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:41:"Catch Sketch Photography "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@catchthemes.com>";s:9:"recipient";s:20:"info@catchthemes.com";s:4:"body";s:217:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:41:"Catch Sketch Photography "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@catchthemes.com>";s:9:"recipient";s:20:"info@example.com";s:4:"body";s:217:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -16148,7 +16148,7 @@ This e-mail was sent from a contact form on Catch Sketch Photography (https://ca
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:18:"additional_headers";s:32:"Reply-To: info@sakinshrestha.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
