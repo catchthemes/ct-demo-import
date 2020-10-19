@@ -29762,7 +29762,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 
 0
@@ -29776,7 +29776,7 @@ Message Body:
 -- 
 This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 
 0
 0
@@ -29826,7 +29826,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)";s:9:"recipient";s:22:"info@example.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -29834,7 +29834,7 @@ This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

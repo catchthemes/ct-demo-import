@@ -36,7 +36,7 @@
 	<wp:base_blog_url>http://catchthemes.com/demo/devotepress-free</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sakinshrestha]]></wp:author_login><wp:author_email><![CDATA[info@sakinshrestha.com]]></wp:author_email><wp:author_display_name><![CDATA[Sakin Shrestha]]></wp:author_display_name><wp:author_first_name><![CDATA[Sakin]]></wp:author_first_name><wp:author_last_name><![CDATA[Shrestha]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>7</wp:author_id><wp:author_login><![CDATA[catchthemes]]></wp:author_login><wp:author_email><![CDATA[info@catchthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[Catch Themes]]></wp:author_display_name><wp:author_first_name><![CDATA[Catch]]></wp:author_first_name><wp:author_last_name><![CDATA[Themes]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>7</wp:author_id><wp:author_login><![CDATA[catchthemes]]></wp:author_login><wp:author_email><![CDATA[dummy@catchthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[Catch Themes]]></wp:author_display_name><wp:author_first_name><![CDATA[Catch]]></wp:author_first_name><wp:author_last_name><![CDATA[Themes]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>45</wp:author_id><wp:author_login><![CDATA[tikaram]]></wp:author_login><wp:author_email><![CDATA[tikaram@catchthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[tikaram]]></wp:author_display_name><wp:author_first_name><![CDATA[Tikaram]]></wp:author_first_name><wp:author_last_name><![CDATA[Bhandari]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>49</wp:author_id><wp:author_login><![CDATA[sanir]]></wp:author_login><wp:author_email><![CDATA[sanir@catchinternet.com]]></wp:author_email><wp:author_display_name><![CDATA[Sanir Maharjan]]></wp:author_display_name><wp:author_first_name><![CDATA[Sanir]]></wp:author_first_name><wp:author_last_name><![CDATA[Maharjan]]></wp:author_last_name></wp:author>
 
@@ -6924,7 +6924,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6932,7 +6932,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6948,7 +6948,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6956,7 +6956,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fotografie-sidebar-options]]></wp:meta_key>
@@ -12176,7 +12176,7 @@ Message Body:
 [your-message]
 --
 This e-mail was sent from a contact form on DevotePress Pro (http://catchthemes.com/demo/devotepress-pro)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 DevotePress Pro "[your-subject]"
 DevotePress Pro 
@@ -12185,7 +12185,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on DevotePress Pro (http://catchthemes.com/demo/devotepress-pro)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.
@@ -12267,7 +12267,7 @@ Message Body:
 [your-message]
 --
 This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 Fotografie "[your-subject]"
 Fotografie
@@ -12276,7 +12276,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.
@@ -12542,7 +12542,7 @@ Message Body:
 [your-message]
 --
 This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 Catch Mag Pro "[your-subject]"
 Catch Mag Pro
@@ -12551,7 +12551,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.
@@ -12633,7 +12633,7 @@ Message Body:
 [your-message]
 --
 This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 Fotografie Blog Pro "[your-subject]"
 Fotografie Blog Pro
@@ -12642,7 +12642,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.

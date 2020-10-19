@@ -6069,7 +6069,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6077,7 +6077,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6093,7 +6093,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6101,7 +6101,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fotografie-sidebar-options]]></wp:meta_key>
@@ -11001,7 +11001,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on DevotePress Dark (http://catchthemes.com/demo/devotepress-dark)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 
 0
@@ -11015,7 +11015,7 @@ Message Body:
 -- 
 This e-mail was sent from a contact form on DevotePress Dark (http://catchthemes.com/demo/devotepress-dark)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 
 0
 0
@@ -11065,7 +11065,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on DevotePress Dark (http://catchthemes.com/demo/devotepress-dark)";s:9:"recipient";s:22:"info@example.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on DevotePress Dark (http://catchthemes.com/demo/devotepress-dark)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -11073,7 +11073,7 @@ This e-mail was sent from a contact form on DevotePress Dark (http://catchthemes
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on DevotePress Dark (http://catchthemes.com/demo/devotepress-dark)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on DevotePress Dark (http://catchthemes.com/demo/devotepress-dark)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -11113,7 +11113,7 @@ Message Body:
 [your-message]
 --
 This e-mail was sent from a contact form on DevotePress Pro (http://catchthemes.com/demo/devotepress-pro)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 DevotePress Pro "[your-subject]"
 DevotePress Pro 
@@ -11122,7 +11122,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on DevotePress Pro (http://catchthemes.com/demo/devotepress-pro)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.
@@ -11204,7 +11204,7 @@ Message Body:
 [your-message]
 --
 This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 Fotografie "[your-subject]"
 Fotografie
@@ -11213,7 +11213,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.
@@ -11479,7 +11479,7 @@ Message Body:
 [your-message]
 --
 This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 Catch Mag Pro "[your-subject]"
 Catch Mag Pro
@@ -11488,7 +11488,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.
@@ -11842,7 +11842,7 @@ Message Body:
 [your-message]
 --
 This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 Fotografie Blog Pro "[your-subject]"
 Fotografie Blog Pro
@@ -11851,7 +11851,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.

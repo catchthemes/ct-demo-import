@@ -36,7 +36,7 @@
 	<wp:base_blog_url>http://catchthemes.com/demo/catch-mag-free</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sakinshrestha]]></wp:author_login><wp:author_email><![CDATA[info@sakinshrestha.com]]></wp:author_email><wp:author_display_name><![CDATA[Sakin Shrestha]]></wp:author_display_name><wp:author_first_name><![CDATA[Sakin]]></wp:author_first_name><wp:author_last_name><![CDATA[Shrestha]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>7</wp:author_id><wp:author_login><![CDATA[catchthemes]]></wp:author_login><wp:author_email><![CDATA[info@catchthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[Catch Themes]]></wp:author_display_name><wp:author_first_name><![CDATA[Catch]]></wp:author_first_name><wp:author_last_name><![CDATA[Themes]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>7</wp:author_id><wp:author_login><![CDATA[catchthemes]]></wp:author_login><wp:author_email><![CDATA[dummy@catchthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[Catch Themes]]></wp:author_display_name><wp:author_first_name><![CDATA[Catch]]></wp:author_first_name><wp:author_last_name><![CDATA[Themes]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>45</wp:author_id><wp:author_login><![CDATA[tikaram]]></wp:author_login><wp:author_email><![CDATA[tikaram@catchthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[tikaram]]></wp:author_display_name><wp:author_first_name><![CDATA[Tikaram]]></wp:author_first_name><wp:author_last_name><![CDATA[Bhandari]]></wp:author_last_name></wp:author>
 
 		<wp:category>
@@ -6139,7 +6139,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6147,7 +6147,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6163,7 +6163,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6171,7 +6171,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fotografie-sidebar-options]]></wp:meta_key>
@@ -6199,7 +6199,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6207,7 +6207,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6223,7 +6223,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6231,7 +6231,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fotografie-sidebar-options]]></wp:meta_key>
@@ -6259,7 +6259,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6267,7 +6267,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6283,7 +6283,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -6291,7 +6291,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fotografie-sidebar-options]]></wp:meta_key>

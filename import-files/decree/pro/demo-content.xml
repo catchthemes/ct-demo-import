@@ -1145,7 +1145,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Decree Pro] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Decree Pro] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
@@ -1169,7 +1169,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Decree Pro] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Decree Pro] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
@@ -1185,7 +1185,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:20:"[Decree Pro] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Decree Pro] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2045,7 +2045,7 @@ Array
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_feedback_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:31:""info" <info@example.com>";}s:7:"message";s:452:"<!doctype html>
+		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:31:""info" <dummy@catchthemes.com>";}s:7:"message";s:452:"<!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <body>
 
@@ -2099,7 +2099,7 @@ Array
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_feedback_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:31:""info" <info@example.com>";}s:7:"message";s:452:"<!doctype html>
+		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:31:""info" <dummy@catchthemes.com>";}s:7:"message";s:452:"<!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <body>
 
@@ -6513,7 +6513,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)
-info@example.com
+dummy@catchthemes.com
 Reply-To: [your-email]
 
 0
@@ -6527,7 +6527,7 @@ Message Body:
 -- 
 This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)
 [your-email]
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 
 0
 0
@@ -6577,7 +6577,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)";s:9:"recipient";s:22:"info@example.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -6585,7 +6585,7 @@ This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/d
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -6622,7 +6622,7 @@ This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/d
 1
 Decree Pro "[your-subject]"
 [your-name] <replyto@example.com>
-info@example.com
+dummy@catchthemes.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -6644,7 +6644,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 
 
 
@@ -6701,7 +6701,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Decree Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:9:"recipient";s:22:"info@example.com";s:4:"body";s:183:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Decree Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:9:"recipient";s:22:"dummy@catchthemes.com";s:4:"body";s:183:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -6716,7 +6716,7 @@ This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/d
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Decree Pro (http://catchthemes.com/demo/decree)";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

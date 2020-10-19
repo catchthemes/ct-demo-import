@@ -5799,7 +5799,7 @@ Solid Construction Pro is clean, secure, responsive, and delivers a fantastic de
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:16:"[Verity] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:16:"[Verity] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
@@ -5823,7 +5823,7 @@ Solid Construction Pro is clean, secure, responsive, and delivers a fantastic de
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:16:"[Verity] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:16:"[Verity] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
@@ -5839,7 +5839,7 @@ Solid Construction Pro is clean, secure, responsive, and delivers a fantastic de
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"info@example.com";s:7:"subject";s:29:"[High Responsive Pro] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:29:"[High Responsive Pro] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:4570;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[solid-construction-header-image]]></wp:meta_key>
@@ -11166,7 +11166,7 @@ Pie dragée icing muffin caramels. Carrot cake gummies fruitcake chocolate cake.
 1
 Solid Construction "[your-subject]"
 [your-name] <replyto@example.com>
-info@example.com
+dummy@catchthemes.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -11188,7 +11188,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Solid Construction (http://catchthemes.com/demo/solid-construction-classic)
-Reply-To: info@example.com
+Reply-To: dummy@catchthemes.com
 
 
 
@@ -11240,7 +11240,7 @@ demo_mode: on]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:35:"Solid Construction "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:9:"recipient";s:22:"info@example.com";s:4:"body";s:211:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:35:"Solid Construction "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:9:"recipient";s:22:"dummy@catchthemes.com";s:4:"body";s:211:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -11255,7 +11255,7 @@ This e-mail was sent from a contact form on Solid Construction (http://catchthem
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Solid Construction (http://catchthemes.com/demo/solid-construction-classic)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Solid Construction (http://catchthemes.com/demo/solid-construction-classic)";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
