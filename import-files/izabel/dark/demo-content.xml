@@ -29753,7 +29753,7 @@ This is my fav brand, I’ve ordered 5 of them!]]></wp:comment_content>
 
 [submit "Send"]
 Izabel Dark "[your-subject]"
-Izabel Dark <replyto@example.com>
+Izabel Dark <[your-email]>
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -29762,21 +29762,21 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)
-dummy@catchthemes.com
+[_site_admin_email]
 Reply-To: [your-email]
 
 0
 0
 
 Izabel Dark "[your-subject]"
-Izabel Dark <replyto@example.com>
+Izabel Dark <[your-email]>
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)
 [your-email]
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 0
 0
@@ -29819,22 +29819,22 @@ The field is too short.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:28:"Izabel Dark "[your-subject]"";s:6:"sender";s:39:"Izabel Dark <replyto@example.com>";s:4:"body";s:189:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:28:"Izabel Dark "[your-subject]"";s:6:"sender";s:39:"Izabel Dark <[your-email]>";s:4:"body";s:189:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:28:"Izabel Dark "[your-subject]"";s:6:"sender";s:39:"Izabel Dark <replyto@example.com>";s:4:"body";s:131:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:28:"Izabel Dark "[your-subject]"";s:6:"sender";s:39:"Izabel Dark <[your-email]>";s:4:"body";s:131:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Izabel Dark (http://catchthemes.com/demo/izabel-dark)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

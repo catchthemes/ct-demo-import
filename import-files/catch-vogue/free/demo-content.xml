@@ -7277,7 +7277,7 @@ Then, as the midday sun withdraws from the gulf the shadow of the mountains, the
 
 [submit "Send"]
 C. Vogue "[your-subject]"
-C. Vogue <replyto@example.com>
+C. Vogue <[your-email]>
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -7286,21 +7286,21 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)
-dummy@catchthemes.com
+[_site_admin_email]
 Reply-To: [your-email]
 
 0
 0
 
 C. Vogue "[your-subject]"
-C. Vogue <replyto@example.com>
+C. Vogue <[your-email]>
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)
 [your-email]
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 0
 0
@@ -7343,22 +7343,22 @@ The field is too short.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:25:"C. Vogue "[your-subject]"";s:6:"sender";s:36:"C. Vogue <replyto@example.com>";s:4:"body";s:191:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:25:"C. Vogue "[your-subject]"";s:6:"sender";s:36:"C. Vogue <[your-email]>";s:4:"body";s:191:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"C. Vogue "[your-subject]"";s:6:"sender";s:36:"C. Vogue <replyto@example.com>";s:4:"body";s:133:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"C. Vogue "[your-subject]"";s:6:"sender";s:36:"C. Vogue <[your-email]>";s:4:"body";s:133:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -7521,8 +7521,8 @@ This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/dem
 [submit "Send"]
 1
 C. Vogue "[your-subject]"
-C. Vogue <replyto@example.com>
-dummy@catchthemes.com
+C. Vogue <[your-email]>
+[_site_admin_email]
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -7537,14 +7537,14 @@ Reply-To: [your-email]
 
 
 C. Vogue "[your-subject]"
-C. Vogue <replyto@example.com>
+C. Vogue <[your-email]>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 
 
@@ -7602,7 +7602,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:25:"C. Vogue "[your-subject]"";s:6:"sender";s:36:"C. Vogue <replyto@example.com>";s:9:"recipient";s:22:"dummy@catchthemes.com";s:4:"body";s:191:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:25:"C. Vogue "[your-subject]"";s:6:"sender";s:36:"C. Vogue <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -7613,11 +7613,11 @@ This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/dem
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"C. Vogue "[your-subject]"";s:6:"sender";s:36:"C. Vogue <replyto@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:133:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"C. Vogue "[your-subject]"";s:6:"sender";s:36:"C. Vogue <[your-email]>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:133:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on C. Vogue (http://catchthemes.com/demo/catch-vogue-free)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

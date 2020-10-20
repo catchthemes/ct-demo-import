@@ -36,7 +36,7 @@
 	<wp:base_blog_url>http://catchthemes.com/demo/catch-inspire-corporate</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sakinshrestha]]></wp:author_login><wp:author_email><![CDATA[info@sakinshrestha.com]]></wp:author_email><wp:author_display_name><![CDATA[Sakin Shrestha]]></wp:author_display_name><wp:author_first_name><![CDATA[Sakin]]></wp:author_first_name><wp:author_last_name><![CDATA[Shrestha]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>7</wp:author_id><wp:author_login><![CDATA[catchthemes]]></wp:author_login><wp:author_email><![CDATA[dummy@catchthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[Catch Themes]]></wp:author_display_name><wp:author_first_name><![CDATA[Catch]]></wp:author_first_name><wp:author_last_name><![CDATA[Themes]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>7</wp:author_id><wp:author_login><![CDATA[catchthemes]]></wp:author_login><wp:author_email><![CDATA[info@catchthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[Catch Themes]]></wp:author_display_name><wp:author_first_name><![CDATA[Catch]]></wp:author_first_name><wp:author_last_name><![CDATA[Themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>

@@ -9419,7 +9419,7 @@ Smith, on whom he had never set eyes in his life, was the other superintendent o
 1
 My Music Band "[your-subject]"
 My Music Band <wordpress@catchthemes.com>
-dummy@catchthemes.com
+[_site_admin_email]
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -9441,7 +9441,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on My Music Band (http://catchthemes.com/demo/my-music-band-pro)
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 
 
@@ -9499,7 +9499,7 @@ demo_mode: on]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"My Music Band "[your-subject]"";s:6:"sender";s:41:"My Music Band <wordpress@catchthemes.com>";s:9:"recipient";s:22:"dummy@catchthemes.com";s:4:"body";s:197:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"My Music Band "[your-subject]"";s:6:"sender";s:41:"My Music Band <wordpress@catchthemes.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:197:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -9514,7 +9514,7 @@ This e-mail was sent from a contact form on My Music Band (http://catchthemes.co
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on My Music Band (http://catchthemes.com/demo/my-music-band-pro)";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on My Music Band (http://catchthemes.com/demo/my-music-band-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

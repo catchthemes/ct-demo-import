@@ -5679,7 +5679,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:19:"[_site_admin_email]";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -5687,7 +5687,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:19:"[_site_admin_email]";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5703,7 +5703,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:19:"[_site_admin_email]";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
@@ -5711,7 +5711,7 @@ United States</address>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_007e8c672a0f2d8d80eec1fecf273f40f8bde79a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:22:"dummy@catchthemes.com";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:2:"to";s:19:"[_site_admin_email]";s:7:"subject";s:20:"[Fotografie] Contact";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:2:"id";i:5520;s:18:"submit_button_text";s:6:"Submit";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fotografie-sidebar-options]]></wp:meta_key>
@@ -10342,7 +10342,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 
 [submit "Send"]
 Catch Mag Pro Sports "[your-subject]"
-Catch Mag Pro Sports <replyto@example.com>
+Catch Mag Pro Sports <[your-email]>
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -10351,21 +10351,21 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Catch Mag Pro Sports (http://catchthemes.com/demo/catch-mag-sports)
-dummy@catchthemes.com
+[_site_admin_email]
 Reply-To: [your-email]
 
 0
 0
 
 Catch Mag Pro Sports "[your-subject]"
-Catch Mag Pro Sports <replyto@example.com>
+Catch Mag Pro Sports <[your-email]>
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Catch Mag Pro Sports (http://catchthemes.com/demo/catch-mag-sports)
 [your-email]
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 0
 0
@@ -10408,22 +10408,22 @@ The field is too short.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:37:"Catch Mag Pro Sports "[your-subject]"";s:6:"sender";s:48:"Catch Mag Pro Sports <replyto@example.com>";s:4:"body";s:203:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:37:"Catch Mag Pro Sports "[your-subject]"";s:6:"sender";s:48:"Catch Mag Pro Sports <[your-email]>";s:4:"body";s:203:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Catch Mag Pro Sports (http://catchthemes.com/demo/catch-mag-sports)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Catch Mag Pro Sports (http://catchthemes.com/demo/catch-mag-sports)";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:37:"Catch Mag Pro Sports "[your-subject]"";s:6:"sender";s:48:"Catch Mag Pro Sports <replyto@example.com>";s:4:"body";s:145:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:37:"Catch Mag Pro Sports "[your-subject]"";s:6:"sender";s:48:"Catch Mag Pro Sports <[your-email]>";s:4:"body";s:145:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Catch Mag Pro Sports (http://catchthemes.com/demo/catch-mag-sports)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Catch Mag Pro Sports (http://catchthemes.com/demo/catch-mag-sports)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -10468,7 +10468,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)
-dummy@catchthemes.com
+[_site_admin_email]
 Reply-To: [your-email]
 
 0
@@ -10482,7 +10482,7 @@ Message Body:
 -- 
 This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)
 [your-email]
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 0
 0
@@ -10525,22 +10525,22 @@ The field is too short.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:38:"Fotografie <replyto@example.com>";s:4:"body";s:129:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:38:"Fotografie <[your-email]>";s:4:"body";s:129:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -10572,22 +10572,22 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:38:"Fotografie <replyto@example.com>";s:4:"body";s:129:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:38:"Fotografie <[your-email]>";s:4:"body";s:129:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -10625,7 +10625,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 1
 Fotografie "[your-subject]"
 [your-name] 
-dummy@catchthemes.com
+[_site_admin_email]
 From: [your-name] 
 Subject: [your-subject]
 
@@ -10647,7 +10647,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 
 
@@ -10705,7 +10705,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:9:"recipient";s:20:"dummy@catchthemes.com";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -10716,11 +10716,11 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:38:"Fotografie <replyto@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:129:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:38:"Fotografie <[your-email]>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:129:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -10752,7 +10752,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:9:"recipient";s:20:"dummy@catchthemes.com";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -10763,11 +10763,11 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:38:"Fotografie <replyto@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:129:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:38:"Fotografie <[your-email]>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:129:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/demo/fotografie)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -10812,7 +10812,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)
-dummy@catchthemes.com
+[_site_admin_email]
 Reply-To: [your-email]
 
 0
@@ -10826,7 +10826,7 @@ Message Body:
 -- 
 This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)
 [your-email]
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 0
 0
@@ -10869,22 +10869,22 @@ The field is too short.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"Catch Mag Pro "[your-subject]"";s:6:"sender";s:41:"Catch Mag Pro <replyto@example.com>";s:4:"body";s:193:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"Catch Mag Pro "[your-subject]"";s:6:"sender";s:41:"Catch Mag Pro <[your-email]>";s:4:"body";s:193:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"Catch Mag Pro "[your-subject]"";s:6:"sender";s:41:"Catch Mag Pro <replyto@example.com>";s:4:"body";s:135:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"Catch Mag Pro "[your-subject]"";s:6:"sender";s:41:"Catch Mag Pro <[your-email]>";s:4:"body";s:135:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Catch Mag Pro (http://catchthemes.com/demo/catch-mag-pro)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -11696,7 +11696,7 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)
-dummy@catchthemes.com
+[_site_admin_email]
 Reply-To: [your-email]
 
 0
@@ -11710,7 +11710,7 @@ Message Body:
 -- 
 This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)
 [your-email]
-Reply-To: dummy@catchthemes.com
+Reply-To: [your-email]
 
 0
 0
@@ -11753,22 +11753,22 @@ The field is too short.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:36:"Fotografie Blog Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <replyto@example.com>";s:4:"body";s:205:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:36:"Fotografie Blog Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:205:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)";s:9:"recipient";s:22:"dummy@catchthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:36:"Fotografie Blog Pro "[your-subject]"";s:6:"sender";s:47:"Fotografie Blog Pro <replyto@example.com>";s:4:"body";s:147:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:36:"Fotografie Blog Pro "[your-subject]"";s:6:"sender";s:47:"Fotografie Blog Pro <[your-email]>";s:4:"body";s:147:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: dummy@catchthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthemes.com/demo/fotografie-blog-pro)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
