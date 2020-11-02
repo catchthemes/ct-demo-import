@@ -13470,8 +13470,8 @@ Then, as the midday sun withdraws from the gulf the shadow of the mountains, the
 [submit "Book Now"]
 1
 Chique Pro "[your-subject]"
-[your-name] <wordpress@catchthemes.com>
-info@sakinshrestha.com
+[your-name]
+[_site_admin_email]
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -13549,7 +13549,7 @@ demo_mode: on]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Chique Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@catchthemes.com>";s:9:"recipient";s:22:"info@sakinshrestha.com";s:4:"body";s:202:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Chique Pro "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:202:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -15253,7 +15253,7 @@ demo_mode: on]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Chique Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@catchthemes.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:198:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Chique Pro "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:198:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -15300,7 +15300,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Chique Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@catchthemes.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:198:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Chique Pro "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:198:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:

@@ -8830,7 +8830,7 @@ The field is too short.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:35:"Simple Persona Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:199:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:35:"Simple Persona Pro "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:4:"body";s:199:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:

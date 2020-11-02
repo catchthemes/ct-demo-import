@@ -14674,7 +14674,7 @@ The field is too short.				]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -14721,7 +14721,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -14768,7 +14768,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -14815,7 +14815,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -14952,7 +14952,7 @@ The telephone number is invalid.				]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -14999,7 +14999,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -15046,7 +15046,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -15093,7 +15093,7 @@ This e-mail was sent from a contact form on Fotografie (http://catchthemes.com/d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:27:"Fotografie "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -15291,7 +15291,7 @@ The field is too short.				]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:36:"Fotografie Blog Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:205:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:36:"Fotografie Blog Pro "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:4:"body";s:205:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -15338,7 +15338,7 @@ This e-mail was sent from a contact form on Fotografie Blog Pro (http://catchthe
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:36:"Fotografie Blog Pro "[your-subject]"";s:6:"sender";s:39:"[your-name] <[your-email]>";s:4:"body";s:205:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:36:"Fotografie Blog Pro "[your-subject]"";s:6:"sender";s:29:"[your-name] <[your-email]>";s:4:"body";s:205:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
